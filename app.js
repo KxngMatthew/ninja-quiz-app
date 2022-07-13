@@ -3,7 +3,7 @@ const correctAnswers = ['B','B','B','B'];
 
 //Select form base on class name quiz-form
 const form = document.querySelector('.quiz-form');
-
+//Select form base on class name result
 const result = document.querySelector('.result');
 
 form.addEventListener('submit',e => {
