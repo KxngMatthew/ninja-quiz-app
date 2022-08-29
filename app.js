@@ -24,7 +24,6 @@ form.addEventListener('submit',e => {
 
     //console.log(score);
     
-    
     //Remove d-none from class list to display result
     result.classList.remove('d-none');
 
